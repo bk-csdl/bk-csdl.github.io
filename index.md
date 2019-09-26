@@ -20,6 +20,8 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 
 ## Hướng dẫn chi tiết các bài thực hành:
 
+**Chú ý:** Các tài liệu hướng dẫn cài đặt môi trường và các lưu ý sẽ được tải lên trước. Hướng dẫn kèm mã nguồn mỗi bài học sẽ được tải lên sau bài học.
+
 #### Buổi 1: Tạo CSDL
 
 ##### 1. Tài liệu:
@@ -31,7 +33,6 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 2. Hướng dẫn bài thực hành: 
 
 [Baitapthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Baitapthuchanh_So1.pdf)
-  
 
 ##### 2.Hướng dẫn cài đặt môi trường
 
@@ -44,8 +45,16 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 
 #### Buổi 2: Thao tác CSDL
 
+Đang cập nhật...
+
 #### Buổi 3 - 4: Thao tác CSDL Nâng cao
+
+Đang cập nhật...
 
 #### Buổi 5: Tạo và đánh giá sử dụng index
 
+Đang cập nhật...
+
 #### Buổi 6: Các kỹ thuật bảo mật và an toàn dữ liệu
+
+Đang cập nhật...
