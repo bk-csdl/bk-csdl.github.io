@@ -27,10 +27,10 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 ##### 1. Tài liệu:
     
 1. Hướng dẫn cài môi trường và tạo CSDL: 
-    [Huongdanthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Huongdanthuchanh_So1.pdf)
+    [File Huongdanthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Huongdanthuchanh_So1.pdf)
 
 2. Hướng dẫn bài thực hành: 
-    [Baitapthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Baitapthuchanh_So1.pdf)
+    [File Baitapthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Baitapthuchanh_So1.pdf)
 
 ##### 2.Hướng dẫn cài đặt môi trường
 
