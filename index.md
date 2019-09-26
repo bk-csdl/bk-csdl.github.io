@@ -2,122 +2,44 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Welcome
 
-[Link to another page](./another-page.html).
+Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đây là website hỗ trợ thực hành, cung cấp các tài liệu và hướng dẫn thực hành.
 
-There should be whitespace between paragraphs.
+## Thông tin chung:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**1. Thời gian học:**
 
-# Header 1
+- 689519	 Chiều T6: Tiết 1315-1730 , Địa điểm: D5-305, Tuần: 5,9,14
+- 689520	 Chiều T6: Tiết 1315-1730 , Địa điểm: D5-305, Tuần: 6,11,15
+- 689521	 Chiều T6: Tiết 1315-1730 , Địa điểm: D5-305, Tuần: 7,12,16
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**2. Tài liệu hướng dẫn thực hành chính thức**
 
-## Header 2
+- Tài liệu các bài thực hành có thể được [tải về từ đây](/assets/course-materials/BaiThucHanh_2019.zips).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Hướng dẫn chi tiết các bài thực hành:
 
-### Header 3
+#### Buổi 1: Tạo CSDL
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+##### 1. Tài liệu:
+    
+1. Hướng dẫn cài môi trường và tạo CSDL: [Huongdanthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Huongdanthuchanh_So1.pdf)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+2. Hướng dẫn bài thực hành: [Baitapthuchanh_So1.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi1_TaoCSDL/Baitapthuchanh_So1.pdf)
+  
 
-#### Header 4
+##### 2.Hướng dẫn cài đặt môi trường
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Tải về và cài đặt:
+    - Hướng dẫn cài đặt tại đây: <https://vinasupport.com/huong-dan-download-va-cai-dat-microsoft-sql-server/>
+    - **MS SQL Server** <https://www.microsoft.com/en-us/sql-server/sql-server-downloads>.
+    - **SQL Server Management Studio:** <https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms>.
 
-##### Header 5
+#### Buổi 2: Thao tác CSDL
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+#### Buổi 3 - 4: Thao tác CSDL Nâng cao
 
-###### Header 6
+#### Buổi 5: Tạo và đánh giá sử dụng index
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+#### Buổi 6: Các kỹ thuật bảo mật và an toàn dữ liệu
