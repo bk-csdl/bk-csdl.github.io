@@ -20,3 +20,15 @@ layout: default
 - **Sử dụng hướng dẫn ở mục 1 để tạo CSDL và bảng.**
 
 ## 3. Các vấn đề có thể gặp và cách giải quyết
+
+### Lỗi: Saving changes is not permitted
+
+![](/assets/course-materials/images/error1.png)
+
+- Open SQL Server Management Studio
+- From the file menu, choose **Tools -> Options**
+- From the left menu, choose **Designers**
+- Uncheck the box entitled **Prevent saving changes that require table re-creation**
+- Press OK to save
+
+![](/assets/course-materials/images/error1-solved.png)
