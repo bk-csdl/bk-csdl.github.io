@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Tài liệu bài thực hành 1"
 ---
 
 ## 1. Tài liệu:
@@ -21,7 +22,7 @@ layout: default
 
 ## 3. Các vấn đề có thể gặp và cách giải quyết
 
-### Lỗi: Saving changes is not permitted
+### 3.1. Lỗi: Saving changes is not permitted
 
 ![](/assets/course-materials/images/error1.png)
 
