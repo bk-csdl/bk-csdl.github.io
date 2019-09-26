@@ -33,3 +33,14 @@ title: "Tài liệu bài thực hành 1"
 - Press OK to save
 
 ![](/assets/course-materials/images/error1-solved.png)
+
+### 3.2. Backup CSDL
+
+- Right-click the database that you wish to backup, point to Tasks, and then click Back Up....
+
+### 3.2. Restore CSDL đã backup
+
+- Right click **Databases** on left pane (Object Explorer)
+- Click **Restore Database...**
+- Choose **Device**, click **[...]**, and add your .bak file
+- Click [OK], then [OK] again.
