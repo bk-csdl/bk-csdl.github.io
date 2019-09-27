@@ -79,9 +79,13 @@ ALTER TABLE dbo.BANGXH  ADD  CONSTRAINT FK_BANGXH_CAULACBO FOREIGN KEY(MACLB)
 REFERENCES dbo.CAULACBO (MACLB)
 ~~~
 
-### 4. Lỗi: Saving changes is not permitted
+### 4. Xử lý lỗi: Saving changes is not permitted
+
+Trong quá trình làm việc với CSDL có thể gặp phải lỗi **Saving changes is not permitted**.
 
 ![](/assets/course-materials/images/error1.png)
+
+**Xử lý như sau:** 
 
 - Open SQL Server Management Studio
 - From the file menu, choose **Tools -> Options**
