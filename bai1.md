@@ -30,9 +30,54 @@ title: "Tài liệu bài thực hành 1"
 
 <https://datatofish.com/table-sql-server/>
 
-### Tạo foreign key (quan hệ giữa các table)
 
-<https://docs.microsoft.com/en-us/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-2017#create-a-foreign-key-relationship-in-table-designer>
+**(!) HOẶC SỬ DỤNG LỆNH SQL:**
+
+- Ấn chuột phải vào tên database -> Chọn **New Query**.
+- Chèn Query tạo bảng và ấn F5 để chạy.
+- Ví dụ về query tạo bảng:
+
+~~~sql
+USE QLBongDa
+GO
+
+CREATE TABLE dbo.BANGXH2(
+	MACLB varchar(5) NOT NULL,
+	NAM int NOT NULL,
+	VONG int NOT NULL,
+	SOTRAN int NOT NULL,
+	THANG int NOT NULL,
+	HOA int NOT NULL,
+	THUA int NOT NULL,
+	HIEUSO varchar(5) NOT NULL,
+	DIEM int NOT NULL,
+	HANG int NOT NULL,
+ CONSTRAINT PK_BANGXH PRIMARY KEY 
+    (
+        MACLB ASC,
+        NAM ASC,
+        VONG ASC
+    )
+)
+GO
+
+~~~
+
+### Tạo quan hệ giữa các table
+
+<https://docs.microsoft.com/en-us/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-2017>
+
+
+**(!) HOẶC SỬ DỤNG LỆNH SQL:**
+
+- Ấn chuột phải vào tên database -> Chọn **New Query**.
+- Chèn Query và ấn F5 để chạy.
+- Ví dụ về query tạo quan hệ giữa các bảng:
+
+~~~sql
+ALTER TABLE dbo.BANGXH  ADD  CONSTRAINT FK_BANGXH_CAULACBO FOREIGN KEY(MACLB)
+REFERENCES dbo.CAULACBO (MACLB)
+~~~
 
 ### Lỗi: Saving changes is not permitted
 
