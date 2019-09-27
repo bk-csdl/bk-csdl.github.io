@@ -22,7 +22,19 @@ title: "Tài liệu bài thực hành 1"
 
 ## 3. Các vấn đề có thể gặp và cách giải quyết
 
-### 3.1. Lỗi: Saving changes is not permitted
+### Tạo database
+
+<https://docs.microsoft.com/en-us/sql/relational-databases/databases/create-a-database?view=sql-server-2017#SSMSProcedure>
+
+### Tạo table
+
+<https://datatofish.com/table-sql-server/>
+
+### Tạo foreign key (quan hệ giữa các table)
+
+<https://docs.microsoft.com/en-us/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-2017#create-a-foreign-key-relationship-in-table-designer>
+
+### Lỗi: Saving changes is not permitted
 
 ![](/assets/course-materials/images/error1.png)
 
@@ -34,13 +46,32 @@ title: "Tài liệu bài thực hành 1"
 
 ![](/assets/course-materials/images/error1-solved.png)
 
-### 3.2. Backup CSDL
 
-- Right-click the database that you wish to backup, point to Tasks, and then click Back Up....
+### Tạo truy vấn
 
-### 3.2. Restore CSDL đã backup
+- Right-click the database name, select **New Query**.
+- Insert query
+- Press [F5] to run
+
+Example of query
+
+```sql
+INSERT INTO dbo.BANGXH
+         (MACLB, NAM, VONG, SOTRAN, THANG, HOA, THUA, HIEUSO, DIEM, HANG)  
+VALUES   ('BBD', 2019, 1,1,1,0,0,'3-0',3,1)  
+```
+
+### Backup CSDL
+
+- Right-click the database that you wish to backup, point to **Tasks**, and then click Back Up....
+
+<https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-2017>
+
+### Restore CSDL đã backup
 
 - Right click **Databases** on left pane (Object Explorer)
 - Click **Restore Database...**
 - Choose **Device**, click **[...]**, and add your .bak file
 - Click [OK], then [OK] again.
+
+<https://support.managed.com/kb/a1788/how-to-manually-restore-an-mssql-database-in-management-studio.aspx>
