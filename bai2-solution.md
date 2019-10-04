@@ -61,7 +61,7 @@ WHERE  clb.TENCLB = N'SHB Đà Nẵng'
 	AND qg.TENQG = N'Bra-xin';
 ```
 
-6. Hiển thị thông tin tất cả các cầu thủ đang thi đấu trong câu lạc bộ có sân nhà là “Long An”
+### 6. Hiển thị thông tin tất cả các cầu thủ đang thi đấu trong câu lạc bộ có sân nhà là “Long An”
 
 ```sql
 SELECT *
@@ -79,7 +79,7 @@ INNER JOIN SANVD svd ON clb.MASAN = svd.MASAN
 WHERE svd.TENSAN = N'Long An';
 ```
 
-7. Cho biết kết quả (MATRAN, NGAYTD, TENSAN, TENCLB1, TENCLB2, KETQUA) các trận đấu vòng 2 của mùa bóng năm 2009
+### 7. Cho biết kết quả (MATRAN, NGAYTD, TENSAN, TENCLB1, TENCLB2, KETQUA) các trận đấu vòng 2 của mùa bóng năm 2009
 
 ```sql
 SELECT MATRAN, NGAYTD, TENSAN, clb1.TENCLB AS TENCLB1, clb2.TENCLB AS TENCLB2, KETQUA
@@ -90,7 +90,7 @@ INNER JOIN CAULACBO clb2 ON td.MACLB2 = clb2.MACLB
 WHERE VONG=2 AND NAM=2009;
 ```
 
-8. Cho biết mã huấn luyện viên, họ tên, ngày sinh, địa chỉ, vai trò và tên CLB đang làm việc của các huấn luyện viên có quốc tịch “ViệtNam”
+### 8. Cho biết mã huấn luyện viên, họ tên, ngày sinh, địa chỉ, vai trò và tên CLB đang làm việc của các huấn luyện viên có quốc tịch “ViệtNam”
 
 ```sql
 SELECT hlv.MAHLV, TENHLV as HOTEN, NGAYSINH, DIACHI, VAITRO, TENCLB
@@ -101,7 +101,7 @@ WHERE hlv.MAQG = qg.MAQG
 	AND qg.TENQG = N'Việt Nam';
 ```
 
-9. Lấy tên 3 câu lạc bộ có điểm cao nhất sau vòng 3 năm 2009
+### 9. Lấy tên 3 câu lạc bộ có điểm cao nhất sau vòng 3 năm 2009
 
 ```sql
 SELECT TOP 3 TENCLB
@@ -111,7 +111,7 @@ WHERE VONG=3 AND NAM=2009
 ORDER BY DIEM DESC;
 ```
 
-10. Cho biết mã huấn luyện viên, họ tên, ngày sinh, địa chỉ, vai trò và tên CLB đang làm việc mà câu lạc bộ đó đóng ở tỉnh Binh Dương.
+### 10. Cho biết mã huấn luyện viên, họ tên, ngày sinh, địa chỉ, vai trò và tên CLB đang làm việc mà câu lạc bộ đó đóng ở tỉnh Binh Dương.
 
 ```sql
 SELECT hlv.MAHLV, TENHLV as HOTEN, NGAYSINH, DIACHI, VAITRO, TENCLB
