@@ -235,7 +235,7 @@ INNER JOIN BANGXH xh ON ct.MACLB = xh.MACLB
 WHERE xh.HANG > 6 OR xh.HANG < 3;
 ```
 
-Hoặc 1 cách sử dụng điểm
+Hoặc 1 cách sử dụng DIEM để sắp xếp:
 
 ```sql
 SELECT ct.*
