@@ -3,7 +3,6 @@ layout: default
 title: "Lời giải mẫu bài thực hành 2"
 ---
 
-
 ## a. Truy vấn cơ bản:
 
 ### 1. Cho biết thông tin (mã cầu thủ, họ tên, số áo, vị trí, ngày sinh, địa chỉ) của tất cả các cầu thủ
@@ -235,7 +234,7 @@ INNER JOIN BANGXH xh ON ct.MACLB = xh.MACLB
 WHERE xh.HANG > 6 OR xh.HANG < 3;
 ```
 
-Hoặc 1 cách sử dụng DIEM để sắp xếp:
+Hoặc 1 cách sử dụng `DIEM` để sắp xếp:
 
 ```sql
 SELECT ct.*
