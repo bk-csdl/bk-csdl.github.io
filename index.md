@@ -28,7 +28,7 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 
 #### Buổi 2: Thao tác CSDL
 
-Đang cập nhật...
+- [Hướng dẫn](/bai2) 
 
 #### Buổi 3 - 4: Thao tác CSDL Nâng cao
 
