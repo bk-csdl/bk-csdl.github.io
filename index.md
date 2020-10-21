@@ -10,9 +10,7 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 
 **1. Thời gian học:**
 
-- 689519	 Chiều T6: Tiết 1315-1730 , Địa điểm: D5-305, Tuần: 5,9,14.
-- 689520	 Chiều T6: Tiết 1315-1730 , Địa điểm: D5-305, Tuần: 6,11,15.
-- 689521	 Chiều T6: Tiết 1315-1730 , Địa điểm: D5-305, Tuần: 7,12,16.
+Theo TKB của nhà trường
 
 **2. Tài liệu hướng dẫn thực hành chính thức**
 
@@ -28,7 +26,7 @@ Chào mừng các bạn đến với khóa học Cơ sở dữ liệu IT3090. Đ
 
 #### Buổi 2: Thao tác CSDL
 
-Đang cập nhật...
+- [Hướng dẫn](/bai2)
 
 <!-- - [Hướng dẫn](/bai2)  -->
 
