@@ -14,3 +14,7 @@ Trước buổi 2 cần tải file backup dữ liệu từ buổi 1 tại [đây
 
 2. Bài tập thực hành số 2:
     [File Baitapthuchanh_So2.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi2_ThaoTacCSDL/Baitapthuchanh_So2.pdf)
+
+3. Link file backup CSDL: https://bit.ly/2TUZPZq
+
+4. Link nộp bài SQL: https://bit.ly/35Yh41e
