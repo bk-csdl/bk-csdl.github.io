@@ -12,7 +12,7 @@ Trước buổi 3 cần tải file backup dữ liệu từ buổi 1 tại [đây
 1. Hướng dẫn lý thuyết về SQL, cách viết truy vấn:
     [File Huongdanthuchanh_So3.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/Huongdanthuchanh_So3.pdf)
 
-2. Bài tập thực hành số 2:
+2. Bài tập thực hành số 3:
     [File Baitapthuchanh_So3.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/Baitapthuchanh_So3.pdf)
 
 3. [Link file backup CSDL](https://bit.ly/2TUZPZq)
