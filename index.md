@@ -32,7 +32,7 @@ Theo TKB của nhà trường
 
 #### Buổi 3 - 4: Thao tác CSDL Nâng cao
 
-Đang cập nhật...
+- [Hướng dẫn](/bai3)
 
 #### Buổi 5: Tạo và đánh giá sử dụng index
 
