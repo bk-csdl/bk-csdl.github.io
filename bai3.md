@@ -14,7 +14,10 @@ Trước buổi 3 cần tải file backup dữ liệu từ buổi 1 tại [đây
 
 2. Bài tập thực hành số 3:
     [File Baitapthuchanh_So3.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/Baitapthuchanh_So3.pdf)
+    
+3. Bài tập thực hành Số 4 (Bổ sung)
+     [File Baitapthuchanh_So4.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/Baitapthuchanh_So4.pdf)
+     
+4. [Link file backup CSDL](https://bit.ly/2TUZPZq)
 
-3. [Link file backup CSDL](https://bit.ly/2TUZPZq)
-
-4. [Link nộp bài SQL](https://bit.ly/35Yh41e)
+5. [Link nộp bài SQL](https://bit.ly/35Yh41e)
