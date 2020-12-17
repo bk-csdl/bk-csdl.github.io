@@ -21,3 +21,4 @@ Trước buổi 3 cần tải file backup dữ liệu từ buổi 1 tại [đây
 4. [Link file backup CSDL](https://bit.ly/2TUZPZq)
 
 5. [Link nộp bài SQL](https://bit.ly/35Yh41e)
+6. [Lời giải tham khảo phần truy vấn con](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/LoiGiai_TruyVanCon.sql)
