@@ -23,3 +23,5 @@ Trước buổi 3 cần tải file backup dữ liệu từ buổi 1 tại [đây
 5. [Link nộp bài SQL](https://bit.ly/35Yh41e)
 6. Lời giải tham khảo phần truy vấn con
    [File LoiGiai_TruyVanCon.sql](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/LoiGiai_TruyVanCon.sql)
+
+7. Hướng dẫn thực hành View, Procedure, Function : [File HuongDanTucHanh_V_P_F.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi6_CacKyThuaBaoMatVaAnToanDuLieu/HuongDanTucHanh_V_P_F.pdf)
