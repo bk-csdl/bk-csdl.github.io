@@ -26,4 +26,4 @@ Trước buổi 3 cần tải file backup dữ liệu từ buổi 1 tại [đây
 
 7. Hướng dẫn thực hành View, Procedure, Function : [File HuongDanTucHanh_V_P_F.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi6_CacKyThuaBaoMatVaAnToanDuLieu/HuongDanTucHanh_V_P_F.pdf)
 
-8. Lời giải tham khảo Procedure, Function : [File PROC-TRIGGER.sql](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/PROC-TRIGGER.sql)
+8. Lời giải tham khảo Procedure, trigger : [File PROC-TRIGGER.sql](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/PROC-TRIGGER.sql)
