@@ -21,9 +21,7 @@ Trước buổi 3 cần tải file backup dữ liệu từ buổi 1 tại [đây
 4. [Link file backup CSDL](https://bit.ly/2TUZPZq)
 
 5. [Link nộp bài SQL](https://bit.ly/35Yh41e)
-6. Lời giải tham khảo phần truy vấn con
-   [File LoiGiai_TruyVanCon.sql](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/LoiGiai_TruyVanCon.sql)
 
-7. Hướng dẫn thực hành View, Procedure, Function : [File HuongDanTucHanh_V_P_F.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi6_CacKyThuaBaoMatVaAnToanDuLieu/HuongDanTucHanh_V_P_F.pdf)
+6. Hướng dẫn thực hành View, Procedure, Function : [File HuongDanTucHanh_V_P_F.pdf](/assets/course-materials/BaiThucHanh_2019/Buoi6_CacKyThuaBaoMatVaAnToanDuLieu/HuongDanTucHanh_V_P_F.pdf)
 
-8. Lời giải tham khảo Procedure, trigger : [File PROC-TRIGGER.sql](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/PROC-TRIGGER.sql)
+7. Lời giải tham khảo Procedure, trigger : [File PROC-TRIGGER.sql](/assets/course-materials/BaiThucHanh_2019/Buoi3_4_ThaoTacCSDL_Nangcao/PROC-TRIGGER.sql)
