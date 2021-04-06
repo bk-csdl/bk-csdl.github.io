@@ -17,6 +17,7 @@ title: "Tài liệu bài thực hành 1"
     - Hướng dẫn cài đặt tại đây: <https://vinasupport.com/huong-dan-download-va-cai-dat-microsoft-sql-server/>
     - **MS SQL Server** <https://www.microsoft.com/en-us/sql-server/sql-server-downloads>.
     - **SQL Server Management Studio:** <https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms>.
+    - Bộ cài SQL 2012 cho Máy tính phòng lab 203  [SQL_2012_EXPRESS](/assets/course-materials/sql_express_2012.rar)
 
 - **Sử dụng hướng dẫn ở mục 1 để tạo CSDL và bảng.**
 
