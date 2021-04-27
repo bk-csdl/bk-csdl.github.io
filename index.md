@@ -14,7 +14,7 @@ Theo TKB của nhà trường
 
 **2. Tài liệu hướng dẫn thực hành chính thức**
 
-- Tài liệu các bài thực hành có thể được [tải về từ đây](/assets/course-materials/BaiThucHanh_2019.zip).
+- Tài liệu các bài thực hành có thể được [tải về từ đây](/assets/course-materials/BaiThucHanh_2021.zip).
 
 ## Hướng dẫn chi tiết các bài thực hành:
 
